@@ -160,9 +160,9 @@ void imprimemar(){
 printf("matriz 3\n");	
 printf("\n");
  
-       for(r=0;r<3;r++){
-		    for(c=0;c<3;c++){
-		     printf(" %d",mar[r][c]);}
-		     printf("\n");}
+for(r=0;r<3;r++){
+for(c=0;c<3;c++){
+printf(" %d",mar[r][c]);}
+printf("\n");}
 printf("\n");	
 }
