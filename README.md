@@ -1,9 +1,8 @@
 # calculadora-de-matriz
 # include <stdio.h>
-#include<stdlib.h>
-#include <time.h>
-#include <windows.h>
-
+# include<stdlib.h>
+# include <time.h>
+# include <windows.h>
 int mat1[3][3]={};
 int mat2[3][3]={};
 int mar[3][3]={};
